@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://balinews185-eng.github.io/buletin/sitemap.xml
